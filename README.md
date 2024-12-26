@@ -1,2 +1,2 @@
-# gitrep
-gitext
+this is readme file
+
